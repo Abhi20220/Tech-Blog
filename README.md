@@ -58,3 +58,5 @@ npm run seed
 
 ## Web Page Overview:
 The following image shows the web page functionality and appearance:
+
+![Blog Overview](./assets/Images/webpage%20overview.jpg)
